@@ -278,3 +278,5 @@ Built-in and third-party plugins are loaded through the `plugins/` subsystem.
 - It exists to study source exposure, packaging failures, and the architecture of modern agentic CLI systems.
 - The original Claude Code source remains the property of **Anthropic**.
 - This repository is **not affiliated with, endorsed by, or maintained by Anthropic**.
+#   c o d e  
+ 
